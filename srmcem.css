@@ -9,7 +9,7 @@
 }
 .c1{
 
-   background-image: url('/srmcem_head_logo-BN0LEybD.png');
+   background-image: url('srmcem_head_logo-BN0LEybD.png');
     margin:0;
     background: transparent;
    
@@ -88,9 +88,10 @@
 
 }
 body{
-    background: url('/srmcem_head_logo-BN0LEybD.png');
+    background: url('srmcem_head_logo-BN0LEybD.png');
     background-repeat: no-repeat;
     background-size: 20%;
     background-position: center ;
     background-position: right 19%;
 }
+
