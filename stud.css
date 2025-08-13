@@ -1,0 +1,75 @@
+#head2{
+    font-size: 42px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(247, 219, 179);
+    text-align: center;
+    float: inline-start;
+    border-radius: 25px;
+    margin: 1%;
+    padding: 10px;
+}
+.sub2{
+    background-color: rgb(157, 199, 236);
+    margin: 30px;
+    font-size: 20px ;
+    float: inline-start;
+    padding: 1%;
+    border-radius: 25px;
+
+
+    
+}
+#head3{
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(247, 242, 234);
+    text-align: center;
+    float: inline-start;
+    margin-left: 38%;
+    padding: 5px;
+    border-radius: 25px;
+}
+#p{
+font-size: 18px;
+float:calc();
+text-align: center;
+background: transparent;
+
+}
+.table{
+border: 5px solid rgb(247, 219, 179);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(251, 252, 253);
+    width:96%;
+    background: transparent;
+}
+.u1{
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(255, 255, 174);
+    text-align: center;
+    font-style: italic;
+    font-style: bold;
+}
+.u2{
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     background-color: rgb(255, 255, 174);
+    text-align: center;
+}   
+
+#odd{
+    background-color: rgb(241, 219, 177);
+}
+#even{
+    background-color: rgb(240, 240, 240);
+}
+body{
+    background-image: url('/srmcem_head_logo-BN0LEybD.png');
+    background-repeat: no-repeat;
+     background-size: 20%;
+     background-position: center;
+     background-position: bottom;
+}
